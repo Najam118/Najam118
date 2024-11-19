@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Najam Uddin
 #### Web Developer
 
-MERN Stack Web Developer | Web Designer | Graphics Designer..
+Frontend Web Developer | Web Designer | Graphics Designer..
 
 Skills: JS / HTML / CSS
 
