@@ -1,4 +1,5 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQErCIY04ZLo9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721223129669?e=1729728000&v=beta&t=J3craaGxrQbec0uZ7ZBZsrTqmhLg8TfJaTFnMtldWJA)
+![image](https://github.com/user-attachments/assets/e2b59a19-c038-4976-b2a2-40ee0c36150d)
+
 
 ### Hi there 👋, I'm Najam Uddin
 #### Web Developer
